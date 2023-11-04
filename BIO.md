@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @NIMxCHENI
+- 👋 Hi, I’m Cheitha Nimnod 
 - 👀 I’m interested in learing programming
 - 🌱 I’m currently learning on python
 - 💞️ I'm looking to collaborate on learning python with you
